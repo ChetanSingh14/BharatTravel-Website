@@ -392,7 +392,7 @@ nav {
 }
 
 .client__card {
-  padding: 2rem;
+  padding: 4rem;
   padding-top: 0;
   text-align: center;
   background-color: var(--white);
